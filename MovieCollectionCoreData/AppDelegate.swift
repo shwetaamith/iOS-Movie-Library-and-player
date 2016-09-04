@@ -2,9 +2,12 @@
 //  AppDelegate.swift
 //  MovieCollectionCoreData
 //
-//  Created by Shweta Murthy on 4/4/16.
-//  Copyright © 2016 Shweta Murthy. All rights reserved.
-//
+//  Copyright © 2016 Shweta Murthy.
+//  The instuctor and the University are provided the right to build and evaluate the software package for
+//  the purpose of determining grade and program assessment.
+//  Created by Shweta Murthy on 4/4/16.mailto:smurthy3@asu.edu.
+
+
 
 import UIKit
 import CoreData
